@@ -57,7 +57,7 @@ I'm a **B.Tech Computer Science (Data Science) undergraduate** with hands-on exp
 |-------------|--------------------------|
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,sql,java" height="30" /> |
 | **Data Analysis** | <img src="https://skillicons.dev/icons?i=pandas,numpy" height="30" /> |
-| **Visualization** | <img src="https://skillicons.dev/icons?i=matplotlib" height="30" /> |
+| **Visualization** | <img src="https://skillicons.dev/icons?i=matplotlib,PowerBI" height="30" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=jupyter,git,github,excel" height="30" /> |
 
 ---
